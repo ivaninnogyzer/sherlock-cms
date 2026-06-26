@@ -86,5 +86,5 @@ Este proyecto está optimizado para desplegarse de manera sencilla en **Vercel**
 ---
 
 <div align="center">
-  <em>Desarrollado con ❤️ para Sherlock AI.</em>
+  <em>Desarrollado para Sherlock AI.</em>
 </div>
