@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./public/ask_sherlock_logo_b.png" alt="Sherlock AI Logo" width="250" />
   <h1>Sherlock CMS (Backend)</h1>
   <p><strong>Panel Administrador Headless con Payload CMS y Supabase</strong></p>
 </div>
